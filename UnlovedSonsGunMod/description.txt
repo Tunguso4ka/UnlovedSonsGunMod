@@ -1,0 +1,25 @@
+Hello! Have a nice day!
+
+This modification adds a new weapon - Unloved Gun with a super cute sounds!
+To craft it you need 50 Fallen Stars and for ammo you need it too.
+Thanks for using!
+
+Versions:
+0.3:
+	Added icon,
+	Increased shoot speed from 12 to 16;
+	Sound regulated;
+0.2:
+	Changed texture for Unloved Gun,
+	Damage increased from 65 to 80,
+	Shoot speed decreased from 24 to 12,
+	Knockback increased from 1 to 2,
+	Fixed ProjectileID;
+
+0.1:
+	Added Unloved Gun;
+
+Author's Twitter:
+	@tunguso4ka
+	
+Trans Rights are Human Rights!

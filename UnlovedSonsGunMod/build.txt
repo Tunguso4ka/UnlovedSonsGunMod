@@ -1,0 +1,3 @@
+displayName = Unloved Son's Gun
+author = Tunguso4ka
+version = 0.3
