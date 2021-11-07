@@ -1,3 +1,4 @@
 displayName = Unloved Son's Gun
 author = Tunguso4ka
-version = 0.4
+version = 0.5
+homepage = https://forums.terraria.org/index.php?threads/unloved-sons-gun-modification.109270/
