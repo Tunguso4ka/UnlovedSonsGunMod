@@ -5,6 +5,8 @@ To craft it you need 50 Fallen Stars and for ammo you need it too.
 Thanks for using!
 
 Versions:
+0.4:
+	Added Github Authorization (i hope this dont break anything);
 0.3:
 	Added icon,
 	Increased shoot speed from 12 to 16;
@@ -21,5 +23,5 @@ Versions:
 
 Author's Twitter:
 	@tunguso4ka
-	
+
 Trans Rights are Human Rights!
